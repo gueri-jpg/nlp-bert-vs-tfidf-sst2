@@ -1,0 +1,46 @@
+# Environnements Python et fichiers générés
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Données téléchargées, caches et modèles
+data/
+dataset/
+datasets/
+.cache/
+.huggingface/
+hf_cache/
+checkpoints/
+models/
+wandb/
+*.arrow
+*.parquet
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Supports de cours : conserver l'archive localement, sans la publier
+*.zip
+
+# Fichiers temporaires et configuration personnelle
+tmp/
+temp/
+*.tmp
+*.log
+~$*
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Les résultats réels de la baseline restent versionnables.

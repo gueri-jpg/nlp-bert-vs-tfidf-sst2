@@ -1,0 +1,80 @@
+{
+  "accuracy": 0.805045871559633,
+  "precision": 0.7830578512396694,
+  "recall": 0.8536036036036037,
+  "f1": 0.8168103448275862,
+  "model": "tfidf_logistic_regression",
+  "seed": 42,
+  "positive_label": 1,
+  "n_train": 67349,
+  "n_validation": 872,
+  "n_errors": 170,
+  "confusion_matrix": [
+    [
+      323,
+      105
+    ],
+    [
+      65,
+      379
+    ]
+  ],
+  "confusion_matrix_label_order": [
+    0,
+    1
+  ],
+  "training_seconds": 6.425109700001485,
+  "vocabulary_size": 74055,
+  "classifier_iterations": [
+    49
+  ],
+  "hyperparameters": {
+    "tfidf": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "min_df": 2,
+      "max_df": 1.0,
+      "max_features": 100000,
+      "lowercase": true,
+      "stop_words": null,
+      "sublinear_tf": true,
+      "use_idf": true,
+      "smooth_idf": true,
+      "norm": "l2"
+    },
+    "logistic_regression": {
+      "C": 1.0,
+      "penalty": "l2",
+      "solver": "lbfgs",
+      "max_iter": 1000,
+      "tol": 0.0001,
+      "class_weight": null,
+      "random_state": 42
+    }
+  },
+  "dataset": {
+    "name": "nyu-mll/glue",
+    "configuration": "sst2",
+    "fit_split": "train",
+    "evaluation_split": "validation",
+    "train_fingerprint": "e0f6962d602757cb",
+    "validation_fingerprint": "0e2b00033b48693f",
+    "normalized_overlap_texts": 0,
+    "normalized_overlap_validation_rows": 0
+  },
+  "environment": {
+    "python": "3.13.14",
+    "platform": "Windows",
+    "device": "CPU"
+  },
+  "library_versions": {
+    "numpy": "2.5.5",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.9",
+    "datasets": "4.8.5",
+    "ipython": "9.18.1"
+  }
+}
