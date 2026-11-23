@@ -1,0 +1,109 @@
+{
+  "phase": 2,
+  "run_kind": "technical_smoke_only",
+  "model_name": "bert-base-uncased",
+  "completed_at_utc": "2026-11-22T18:30:49.598519+00:00",
+  "reference_commit": "ecb4c82e3a36fd1c3d3d05b2efaad01e996feb5a",
+  "status": "passed_technical_only",
+  "reason": null,
+  "checks": {
+    "api_signatures": "passed",
+    "wordpiece_and_special_tokens": "passed",
+    "train_length_distribution": "passed",
+    "tokenized_alignment_and_masks": "passed",
+    "dynamic_padding": "passed",
+    "model_loading": "passed",
+    "forward_and_loss": "passed",
+    "trainer_backward_and_updates": "passed",
+    "smoke_prediction_export": "passed",
+    "baseline_files_unchanged": "passed"
+  },
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "transformers": "4.57.6",
+    "accelerate": "1.15.0",
+    "datasets": "4.8.5",
+    "tokenizers": "0.22.2",
+    "huggingface-hub": "0.36.2",
+    "safetensors": "0.8.0",
+    "numpy": "2.4.6",
+    "psutil": "7.2.2"
+  },
+  "python": "3.13.16",
+  "device": "cuda",
+  "gpu_name": "Tesla T4",
+  "max_length": 64,
+  "train_coverage_percent": 99.99406078783649,
+  "train_wordpiece_percentiles": {
+    "50": 10.0,
+    "90": 27.0,
+    "95": 33.0,
+    "99": 44.0
+  },
+  "train_wordpiece_max": 66,
+  "smoke_train_size": 16,
+  "smoke_validation_size": 8,
+  "smoke_max_steps": 2,
+  "optimizer_steps_executed": 2,
+  "smoke_only_metrics": {
+    "smoke_only_loss": 0.6355546712875366,
+    "smoke_only_accuracy": 0.75,
+    "smoke_only_f1_positive": 0.8571428571428571,
+    "smoke_only_runtime": 0.0874,
+    "smoke_only_samples_per_second": 91.558,
+    "smoke_only_steps_per_second": 45.779
+  },
+  "smoke_predictions_file": "results/phase2/bert_smoke_predictions.csv",
+  "memory_initial": {
+    "ram_available_gib": 10.704849243164062,
+    "process_rss_gib": 1.376251220703125,
+    "gpu_free_gib": 14.46075439453125,
+    "gpu_total_gib": 14.56317138671875,
+    "gpu_allocated_gib": 0.0,
+    "gpu_reserved_gib": 0.0,
+    "gpu_peak_allocated_gib": 0.0
+  },
+  "memory_before_model": {
+    "ram_available_gib": 8.826515197753906,
+    "process_rss_gib": 1.3851394653320312,
+    "gpu_free_gib": 14.46075439453125,
+    "gpu_total_gib": 14.56317138671875,
+    "gpu_allocated_gib": 0.0,
+    "gpu_reserved_gib": 0.0,
+    "gpu_peak_allocated_gib": 0.0
+  },
+  "memory_after": {
+    "ram_available_gib": 9.18142318725586,
+    "process_rss_gib": 1.9964256286621094,
+    "gpu_free_gib": 12.16778564453125,
+    "gpu_total_gib": 14.56317138671875,
+    "gpu_allocated_gib": 1.2426190376281738,
+    "gpu_reserved_gib": 2.259765625,
+    "gpu_peak_allocated_gib": 2.059506893157959
+  },
+  "baseline_hashes_unchanged": {
+    "tfidf_metrics.json": "77cec348bd8474826b08ed5cef8ca8a6f6e0326c688ae18f299d90667f56b564",
+    "tfidf_predictions.csv": "f1f2a8ce2be6432c84fe8c8e6748fd7d15697c045a9390c37ea1eaf4358a7c8a",
+    "tfidf_confusion_matrix.png": "7de5008d4a53f310b59d3dac320fa400fb73d77734aea54c518b054ae486f349"
+  },
+  "phase3_plan_not_executed": {
+    "model": "bert-base-uncased",
+    "num_train_epochs": 2,
+    "learning_rate": 2e-05,
+    "seed": 42,
+    "per_device_train_batch_size": 16,
+    "per_device_eval_batch_size": 32,
+    "max_length": 64,
+    "metrics": [
+      "accuracy",
+      "f1_positive"
+    ],
+    "positive_label": 1,
+    "device": "cuda",
+    "status": "planned_only_requires_phase3_approval"
+  },
+  "dataset_fingerprints": {
+    "train": "e0f6962d602757cb",
+    "validation": "0e2b00033b48693f"
+  }
+}

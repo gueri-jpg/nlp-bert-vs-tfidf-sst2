@@ -1,0 +1,9 @@
+split,idx,sentence,true_label,predicted_label,probability_positive,logit_0,logit_1,run_kind,model_name,max_length,seed
+validation,726,"it gets onto the screen just about as much of the novella as one could reasonably expect , and is engrossing and moving in its own right . ",1,1,0.57656133,0.2573812,0.56605417,smoke,bert-base-uncased,64,42
+validation,737,my big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor . ,1,1,0.59652424,0.1467795,0.53778297,smoke,bert-base-uncased,64,42
+validation,51,"for the most part , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted drama . ",1,1,0.5968183,0.12042004,0.51264554,smoke,bert-base-uncased,64,42
+validation,482,cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors . ,1,1,0.58799434,0.18960005,0.5452802,smoke,bert-base-uncased,64,42
+validation,426,"charles ' entertaining film chronicles seinfeld 's return to stand-up comedy after the wrap of his legendary sitcom , alongside wannabe comic adams ' attempts to get his shot at the big time . ",1,1,0.566944,0.23487844,0.5042718,smoke,bert-base-uncased,64,42
+validation,330,and that leaves a hole in the center of the salton sea . ,0,1,0.57976496,0.24990344,0.571712,smoke,bert-base-uncased,64,42
+validation,243,the film tunes into a grief that could lead a man across centuries . ,1,1,0.5469575,0.27661803,0.46500295,smoke,bert-base-uncased,64,42
+validation,7,or doing last year 's taxes with your ex-wife . ,0,1,0.6062849,0.1946044,0.6263269,smoke,bert-base-uncased,64,42
