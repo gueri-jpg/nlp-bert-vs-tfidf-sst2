@@ -1,0 +1,66 @@
+idx,sentence,true_label,predicted_label,logit_negative,logit_positive,probability_positive,correct
+22,holden caulfield did it better . ,0,1,-1.08203125,1.2001953125,0.907394314436929,False
+83,"though it 's become almost redundant to say so , major kudos go to leigh for actually casting people who look working-class . ",1,0,1.5849609375,-1.6796875,0.0368040691017729,False
+87,jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters ,1,0,0.89013671875,-0.66748046875,0.1739888310319359,False
+92,"you wo n't like roger , but you will quickly recognize him . ",0,1,-2.79296875,2.845703125,0.9964550213867124,False
+93,if steven soderbergh 's ` solaris ' is a failure it is a glorious failure . ,1,0,0.90673828125,-0.85400390625,0.1466974104253594,False
+95,this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . ,0,1,-3.77734375,3.744140625,0.9994589644431492,False
+112,hilariously inept and ridiculous . ,1,0,2.685546875,-3.224609375,0.0027044293694093,False
+115,sam mendes has become valedictorian at the school for soft landings and easy ways out . ,0,1,-2.99609375,3.015625,0.997556113374818,False
+118,every nanosecond of the the new guy reminds you that you could be doing something else far more pleasurable . ,0,1,-2.291015625,2.4765625,0.9915707134172578,False
+121,it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so ,0,1,-1.4453125,1.533203125,0.9515940425962788,False
+142,what better message than ` love thyself ' could young women of any size receive ? ,1,0,1.8203125,-1.8828125,0.0240535528944261,False
+171,rarely has leukemia looked so shimmering and benign . ,0,1,-0.390625,0.60205078125,0.7296161151554498,False
+172,it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel . ,1,0,0.48388671875,0.146240234375,0.4163812871848196,False
+183,"the lower your expectations , the more you 'll enjoy it . ",0,1,-3.802734375,3.900390625,0.9995487893762218,False
+205,falls neatly into the category of good stupid fun . ,1,0,0.96044921875,-0.79248046875,0.1476780597041612,False
+230,reign of fire looks as if it was made without much thought -- and is best watched that way . ,1,0,2.50390625,-2.8046875,0.00492451037408,False
+266,"a coda in every sense , the pinochet case splits time between a minute-by-minute account of the british court 's extradition chess game and the regime 's talking-head survivors . ",1,0,2.15625,-2.3671875,0.0107351626090906,False
+271,as unseemly as its title suggests . ,1,0,2.4765625,-2.94140625,0.0044165559311439,False
+273,"minority report is exactly what the title indicates , a report . ",1,0,1.2421875,-1.22265625,0.0783598085241819,False
+274,"it 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that . ",0,1,-0.53515625,0.732421875,0.7803278809749313,False
+282,"while there 's something intrinsically funny about sir anthony hopkins saying ` get in the car , bitch , ' this jerry bruckheimer production has little else to offer ",1,0,2.755859375,-3.01171875,0.0031175726790544,False
+292,the story and the friendship proceeds in such a way that you 're watching a soap opera rather than a chronicle of the ups and downs that accompany lifelong friendships . ,0,1,-0.0088729858398437,0.2083740234375,0.554099146371227,False
+301,"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays . ",0,1,-0.47802734375,0.82470703125,0.7862948141960816,False
+324,"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . ",1,0,1.1103515625,-0.81787109375,0.1269474357257659,False
+358,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful . ,1,0,1.8828125,-2.201171875,0.0165613372024735,False
+399,"if director michael dowse only superficially understands his characters , he does n't hold them in contempt . ",0,1,-2.90625,2.94140625,0.9971216519652336,False
+411,"i do n't mind having my heartstrings pulled , but do n't treat me like a fool . ",0,1,-1.7998046875,2.12890625,0.9807103966148576,False
+441,"there is very little dread or apprehension , and though i like the creepy ideas , they are not executed with anything more than perfunctory skill . ",0,1,-0.15576171875,0.258056640625,0.6020030954206512,False
+446,"with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood , windtalkers is nothing but a sticky-sweet soap . ",0,1,-1.3681640625,1.4599609375,0.9441768588653856,False
+464,intriguing documentary which is emotionally diluted by focusing on the story 's least interesting subject . ,1,0,2.083984375,-2.478515625,0.0103281525193051,False
+494,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff . ",0,1,-1.76953125,1.88671875,0.974821158299398,False
+501,"harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all . ",1,0,2.216796875,-2.708984375,0.0072047690888687,False
+509,a movie that successfully crushes a best selling novel into a timeframe that mandates that you avoid the godzilla sized soda . ,1,0,1.6845703125,-2.0546875,0.0232197654540648,False
+519,moretti 's compelling anatomy of grief and the difficult process of adapting to loss . ,0,1,-4.01171875,3.9765625,0.9996606982095744,False
+544,"although huppert 's intensity and focus has a raw exhilaration about it , the piano teacher is anything but fun . ",0,1,-4.34765625,4.25,0.9998154962502372,False
+546,"on the heels of the ring comes a similarly morose and humorless horror movie that , although flawed , is to be commended for its straight-ahead approach to creepiness . ",1,0,2.248046875,-2.568359375,0.00803081321626,False
+561,"another one of those estrogen overdose movies like `` divine secrets of the ya ya sisterhood , '' except that the writing , acting and character development are a lot better . ",1,0,1.994140625,-2.22265625,0.0145315226357549,False
+579,"every dance becomes about seduction , where backstabbing and betrayals are celebrated , and sex is currency . ",0,1,-0.5888671875,0.77587890625,0.7965299796105582,False
+580,"it takes a certain kind of horror movie to qualify as ` worse than expected , ' but ghost ship somehow manages to do exactly that . ",0,1,-2.095703125,2.015625,0.9838781747712152,False
+604,vera 's technical prowess ends up selling his film short ; he smoothes over hard truths even as he uncovers them . ,0,1,-1.4404296875,1.572265625,0.9531443745781156,False
+618,"without non-stop techno or the existential overtones of a kieslowski morality tale , maelström is just another winter sleepers . ",0,1,-0.212890625,0.48681640625,0.6681228140245511,False
+626,this flick is about as cool and crowd-pleasing as a documentary can get . ,1,0,2.427734375,-2.869140625,0.0049822697304212,False
+645,"the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate . ",0,1,-2.171875,2.3671875,0.9894295113796924,False
+646,"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes . ",0,1,-2.275390625,2.333984375,0.9901401446964612,False
+656,"so much facile technique , such cute ideas , so little movie . ",1,0,2.26953125,-2.68359375,0.0070117953814971,False
+670,verbinski implements every hack-artist trick to give us the ooky-spookies . ,0,1,-1.4716796875,1.5927734375,0.955402423772614,False
+673,"drops you into a dizzying , volatile , pressure-cooker of a situation that quickly snowballs out of control , while focusing on the what much more than the why . ",1,0,2.0078125,-2.361328125,0.0125037929070927,False
+685,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . ,1,0,1.857421875,-2.068359375,0.0193451039145895,False
+695,"sit through this one , and you wo n't need a magic watch to stop time ; your dvd player will do it for you . ",0,1,-2.1640625,2.091796875,0.9860173872190776,False
+699,"... routine , harmless diversion and little else . ",1,0,1.810546875,-2.07421875,0.0201387408277291,False
+707,no telegraphing is too obvious or simplistic for this movie . ,0,1,-1.4775390625,1.51953125,0.9524415977014574,False
+724,it 's everything you do n't go to the movies for . ,0,1,-3.888671875,3.953125,0.999607192056965,False
+728,"but taken as a stylish and energetic one-shot , the queen of the damned can not be said to suck . ",1,0,0.6904296875,-0.58740234375,0.2179194857920809,False
+736,american chai encourages rueful laughter at stereotypes only an indian-american would recognize . ,0,1,0.02764892578125,0.1041259765625,0.5191099495103936,False
+741,but it still jingles in the pocket . ,1,0,1.244140625,-1.185546875,0.0809367097836155,False
+760,"writer/director joe carnahan 's grimy crime drama is a manual of precinct cliches , but it moves fast enough to cover its clunky dialogue and lapses in logic . ",1,0,0.8876953125,-0.80224609375,0.1557835459272773,False
+764,"movie fans , get ready to take off ... the other direction . ",0,1,-2.375,2.541015625,0.9927250415335768,False
+770,i do n't think i laughed out loud once . ,0,1,-0.160888671875,0.7216796875,0.7073541653998091,False
+771,"very special effects , brilliantly bold colors and heightened reality ca n't hide the giant achilles ' heel in `` stuart little 2 `` : there 's just no story , folks . ",0,1,-1.34765625,1.439453125,0.9419752510012038,False
+782,the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned . ,1,0,1.080078125,-1.0546875,0.1057634231295005,False
+791,"it 's somewhat clumsy and too lethargically paced -- but its story about a mysterious creature with psychic abilities offers a solid build-up , a terrific climax , and some nice chills along the way . ",0,1,-3.00390625,3.03515625,0.9976218762818836,False
+812,this surreal gilliam-esque film is also a troubling interpretation of ecclesiastes . ,1,0,1.1689453125,-1.3408203125,0.0751764027608316,False
+829,teen movies have really hit the skids . ,0,1,-1.9638671875,2.138671875,0.9837381689148326,False
+832,manages to show life in all of its banality when the intention is quite the opposite . ,0,1,-1.98828125,1.9296875,0.9805061282729682,False
+846,"an absurdist comedy about alienation , separation and loss . ",0,1,-1.60546875,1.66015625,0.9632305339244012,False
